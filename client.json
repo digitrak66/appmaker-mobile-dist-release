@@ -1,3 +1,5 @@
 {
-  "key": "devuniqueapikey"
+  "key": "devuniqueapikey",
+  "remote": "http://127.0.0.1/5minutes/public/api/v1/",
+  "locale": "en"
 }
